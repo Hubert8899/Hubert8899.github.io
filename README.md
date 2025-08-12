@@ -1,3 +1,2 @@
-theme: jekyll-theme-minimal
-# Hubert Witkos
-Hello, my name is Hubert Witkos and I am current master's in statistics student at the University of Illinois at Urbana-Champaign. 
+# Hubert
+Hello, my name is Hubert and I am current master's in statistics student at the University of Illinois at Urbana-Champaign. 
